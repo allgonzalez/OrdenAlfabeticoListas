@@ -1,0 +1,16 @@
+digraph G{
+rankdir = LR
+NodeAmlo[label="Amlo"];
+NodeAmlo -> NodeArribaldo;
+NodeArribaldo[label="Arribaldo"];
+NodeArribaldo -> NodeEduardo;
+NodeEduardo[label="Eduardo"];
+NodeEduardo -> NodeJose;
+NodeJose[label="Jose"];
+NodeJose -> NodeJulio;
+NodeJulio[label="Julio"];
+NodeJulio -> NodeXamarin;
+NodeXamarin[label="Xamarin"];
+NodeXamarin -> NodeZulivan;
+NodeZulivan[label="Zulivan"];
+}
