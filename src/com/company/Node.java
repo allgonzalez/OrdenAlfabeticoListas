@@ -6,6 +6,7 @@ public class Node {
 
     public Node next;
 
+    //
     public Node(String texto){
         this.texto = texto;
         this.next = null;

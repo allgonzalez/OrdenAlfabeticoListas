@@ -22,7 +22,7 @@ public class Main {
 
     listSimple.bubbleSort();
 
-    //Graficado con graphviz :D
+    //Graficado con graphviz :)
     listSimple.graph();
 
 
